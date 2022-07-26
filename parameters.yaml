@@ -1,0 +1,41 @@
+# Experiment:
+name:
+date:
+user:
+project_path:
+
+
+# Environment:
+time_format:
+process_worker_num:
+
+
+# Folders:
+raw_data_folder:
+img_folder:
+all_folder:
+log_folder:
+
+
+# Preprocess:
+data_length:
+
+
+# Heartpy:
+ppg_sample_rate:
+acc_sample_rate:
+ma_window_size:
+avg_window_size:
+min_max_scaling_bound:
+window_scaling_bound:
+bandpass_cutoff_bound:
+reject_bp_bound:
+
+
+# Model:
+test_fraction:
+validate_fraction:
+epoch:
+batch_size:
+
+

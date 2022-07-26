@@ -1,0 +1,11 @@
+fire
+nose2
+pylint
+ipykernel
+PyYAML
+ruamel.yaml
+numpy
+pandas
+scipy
+heartpy
+loguru
